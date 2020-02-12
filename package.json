@@ -1,0 +1,16 @@
+{
+  "name": "brief-projet-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.13.1",
+    "save-dev": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "compiler:sass" : "node-sass sass/style.scss css/style.css-w"
+  },
+  "author": "douaelasri",
+  "license": "ISC"
+}
