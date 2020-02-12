@@ -33,8 +33,9 @@ body {
   justify-content: center; }
   .form__input--email {
     margin-right: 1em;
-    width: 400px;
-    padding: 1.2em 1em;
+    font-size: 1rem;
+    padding: 1rem;
+    padding-right: 12rem;
     border-radius: 20px;
     border: 1px solid #969696; }
   .form__button--submit {
@@ -86,4 +87,4 @@ h4 {
     .form__input {
       margin-bottom: 2%; }
     .form__button--submit {
-      padding: 1rem 10rem; } }
+      padding: 1rem 2rem; } }
